@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Car with Aviation",
+    "location": "London UK",
+    "image": "location-photos/car-plane.jpg"
+  },
+  {
+    "name": "HollyWood Streets",
+    "location": "Los Angles CA",
+    "image": "location-photos/hollywood.jpg"
+  },
+  {
+    "name": "Lit Ware House",
+    "location": "Atlanta GA",
+    "image": "location-photos/warehouse.jpg"
+  },
+  {
+    "name": "Smokey Mountains",
+    "location": "Denver CO",
+    "image": "location-photos/mountains.jpg"
+  },
+  {
+    "name": "Vast Desert",
+    "location": "Mexico City, Mexico",
+    "image": "location-photos/desert.jpg"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "value": "Under $50,000",
+      "cost": 1000
+    },
+    {
+      "value": "Under $100,000",
+      "cost": 3000
+    },
+    {
+      "value": "Under $300,000",
+      "cost": 5000
+    },
+    {
+      "value": "Under $500,000",
+      "cost": 7000
+    },
+    {
+      "value": "Under $1,000,000",
+      "cost": 10000
+    },
+    {
+      "value": "Over $1,000,000",
+      "cost": 20000
+    }
+  ],
+
+  [
+    {
+      "type": "Exotic",
+      "cost": 2000
+    },
+    {
+      "type": "Luxury",
+      "cost": 1000
+    },
+    {
+      "type": "Other",
+      "cost": 0
+    }
+  ],
+
+  [
+    {
+      "location": "Miami"
+    },
+    {
+      "location": "New York"
+    },
+    {
+      "location": "Los Angles"
+    },
+    {
+      "location": "Dubai"
+    }
+  ]
+]
